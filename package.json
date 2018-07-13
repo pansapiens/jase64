@@ -24,12 +24,12 @@
   "homepage": "https://github.com/pansapiens/jase64#readme",
   "devDependencies": {
     "@types/base64-arraybuffer": "^0.1.0",
+    "@types/gzip-js": "^0.3.1",
     "@types/node": "^10.5.2",
+    "@types/msgpack-lite": "^0.1.6",
     "typescript": "^2.9.2"
   },
   "dependencies": {
-    "@types/gzip-js": "^0.3.1",
-    "@types/msgpack-lite": "^0.1.6",
     "base64-arraybuffer": "^0.1.5",
     "gzip-js": "^0.3.2",
     "msgpack-lite": "^0.1.26"
