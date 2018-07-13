@@ -1,0 +1,37 @@
+{
+  "name": "jase64",
+  "version": "0.1.0",
+  "description": "Compress JSON to URL-safe Base64.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pansapiens/jase64.git"
+  },
+  "keywords": [
+    "json",
+    "base64",
+    "compression"
+  ],
+  "author": "Andrew Perry <ajperry@pansapiens.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pansapiens/jase64/issues"
+  },
+  "homepage": "https://github.com/pansapiens/jase64#readme",
+  "devDependencies": {
+    "@types/base64-arraybuffer": "^0.1.0",
+    "@types/node": "^10.5.2",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "@types/gzip-js": "^0.3.1",
+    "@types/msgpack-lite": "^0.1.6",
+    "base64-arraybuffer": "^0.1.5",
+    "gzip-js": "^0.3.2",
+    "msgpack-lite": "^0.1.26"
+  }
+}
