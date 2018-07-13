@@ -2,7 +2,8 @@
   "name": "jase64",
   "version": "0.1.0",
   "description": "Compress JSON to URL-safe Base64.",
-  "main": "dist/index.js",
+  "main": "dist/main.js",
+  "types": "dist/main.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
