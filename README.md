@@ -2,6 +2,8 @@
 
 _Compress JSON to URL-safe Base64_
 
+See also: [JSONCrush](https://github.com/KilledByAPixel/JSONCrush) (smaller library, better compression)
+
 ## Installing
 
 ```bash
