@@ -2,7 +2,7 @@
 
 _Compress JSON to URL-safe Base64_
 
-See also: [JSONCrush](https://github.com/KilledByAPixel/JSONCrush) (smaller library, better compression)
+See also: [JSONCrush](https://github.com/KilledByAPixel/JSONCrush) (smaller library, better compression for small JSON blobs)
 
 ## Installing
 
